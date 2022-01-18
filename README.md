@@ -1,0 +1,2 @@
+# GoldenDict
+Persian GoldenDict glossaries
